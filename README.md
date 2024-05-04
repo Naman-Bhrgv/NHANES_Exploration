@@ -3,6 +3,8 @@
 
 This project is designed with the goal of achieving a deeper understanding of two significant
 health-related queries using NHANES data, employing machine learning techniques.
+
+
 Question 1 - addresses the multitude of elements that may affect variations in body weight
 among a certain group of people. To tackle this, we aim to rigorously examine and forecast
 the Body Mass Index (BMI) as it relates to various predictive factors.
